@@ -1,5 +1,5 @@
 🧠 flashcARD-QUIZ
-By CHRISNIGEL
+By CHRISNIGEL.
 A simple, fun, and interactive flashcard quiz app built using HTML and JavaScript. Great for self-testing and learning through repetition—ideal for students, language learners, or trivia lovers.
 
 
